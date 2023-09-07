@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background('lavender');
+  background('yellow');
   fill('black');
   breedte = width/aantal;
   text("aantal = " + aantal,10,20);  
